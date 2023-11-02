@@ -1,3 +1,4 @@
+                              //Print array elements using for loop
 package Arrays;
 
 public class Arrays3 {
